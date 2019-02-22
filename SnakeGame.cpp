@@ -13,7 +13,7 @@ using namespace std;
 int const r=20,c=40;
 char board[r][c];
 
-struct Snake
+struct Snake   
 {
     int x,y;
     char val;
